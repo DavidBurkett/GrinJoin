@@ -28,4 +28,5 @@ So now only the central server knows which outputs spend which inputs, but has n
 
 
 [1] https://bitcointalk.org/index.php?topic=279249
+
 [2] https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt
